@@ -50,6 +50,10 @@ vi xxx.sql
 ![02log](/img/image-7.png)
 
 ### 4. 참고자료
-[오라클 블로그 PITR part1](https://blogs.oracle.com/mysql/post/point-in-time-recovery-in-oci-mds-with-object-storage-part-1 )
+[오라클 블로그 PITR part1](https://blogs.oracle.com/mysql/post/point-in-time-recovery-in-oci-mds-with-object-storage-part-1)
+
+
 [오라클 블로그 PITR part2](https://blogs.oracle.com/mysql/post/point-in-time-recovery-in-oci-mds-with-object-storage-part-2)
+
+
 [MySQL Reference 메뉴얼](https://dev.mysql.com/doc/refman/8.3/en/mysqlbinlog.html)
